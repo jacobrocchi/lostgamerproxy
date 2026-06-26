@@ -1,8 +1,0 @@
-{
-  "name": "lostgamer-proxy",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "http-proxy-middleware": "^3.0.0"
-  }
-}
